@@ -224,11 +224,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 <br />
 <p>
-  I hope this tutorial helped you learn a little bit about network security protocols and observe traffic between virtual machines. And although I ran this on a my MacBook Air, this can be easily done on a PC without having to download a remote desktop app since Windows provides that with it's software.
+  .
 </p>
 <p>
-  And now that we're done, DON'T FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT so that you don't incur unnecessary charges.
 </p>
 <p>
-  Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.
 </p>
